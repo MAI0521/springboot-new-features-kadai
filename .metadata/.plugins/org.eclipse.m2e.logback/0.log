@@ -4776,6 +4776,7 @@
 2024-09-14 15:40:16,334 [Worker-36: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-09-14 15:40:16,347 [Worker-36: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-09-14 15:40:16,356 [Worker-36: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\pleiades\2023-12\spring_boot\samuraitravel\src\test\resources
+<<<<<<< HEAD
 2024-09-14 16:23:10,546 [Worker-47: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
 2024-09-14 16:23:10,601 [Worker-47: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 40 resources from src\main\resources to target\classes
 2024-09-14 16:23:10,617 [Worker-47: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\pleiades\2023-12\spring_boot\samuraitravel\src\test\resources
@@ -15732,3 +15733,5 @@
 2024-10-26 23:13:25,819 [Worker-499: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-10-26 23:13:25,830 [Worker-499: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-10-26 23:13:25,835 [Worker-499: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\pleiades\2023-12\spring_boot\nagoyameshi\src\test\resources
+=======
+>>>>>>> a5340638c0bf8f2407ce81ff741f3c6c9c854c0f

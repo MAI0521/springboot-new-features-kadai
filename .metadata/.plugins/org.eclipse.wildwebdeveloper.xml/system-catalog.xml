@@ -1,6 +1,10 @@
 <?xml version="1.0"?>
 <!DOCTYPE catalog PUBLIC "-//OASIS//DTD Entity Resolution XML Catalog V1.0//EN" "http://www.oasis-open.org/committees/entity/release/1.0/catalog.dtd">
 <catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="public">
+<<<<<<< HEAD
+=======
+<public publicId="-//Sun Microsystems, Inc.//DTD Facelet Taglib 1.0//EN" uri="jar:file:/C:/pleiades/2023-12/eclipse/dropins/WTP/eclipse/plugins/org.eclipse.jst.jsf.facelet.core_1.5.0.v202308300413.jar!/dtd/facelet-taglib_1_0.dtd"/>
+>>>>>>> a5340638c0bf8f2407ce81ff741f3c6c9c854c0f
 <system systemId="http://maven.apache.org/maven-v4_0_0.xsd" uri="jar:file:/C:/pleiades/2023-12/eclipse/plugins/org.eclipse.m2e.model.edit_2.0.400.20231030-1438.jar!/xsd/maven-v4_0_0.xsd"/>
 <system systemId="http://maven.apache.org/xsd/maven-4.0.0.xsd" uri="jar:file:/C:/pleiades/2023-12/eclipse/plugins/org.eclipse.m2e.model.edit_2.0.400.20231030-1438.jar!/xsd/maven-v4_0_0.xsd"/>
 <system systemId="http://maven.apache.org/xsd/settings-1.0.0.xsd" uri="jar:file:/C:/pleiades/2023-12/eclipse/plugins/org.eclipse.m2e.model.edit_2.0.400.20231030-1438.jar!/xsd/settings-v1_0_0.xsd"/>
@@ -8,7 +12,10 @@
 <system systemId="http://maven.apache.org/xsd/archetype-1.0.0.xsd" uri="jar:file:/C:/pleiades/2023-12/eclipse/plugins/org.eclipse.m2e.model.edit_2.0.400.20231030-1438.jar!/xsd/archetype-1.0.0.xsd"/>
 <system systemId="http://maven.apache.org/xsd/archetype-catalog-1.0.0.xsd" uri="jar:file:/C:/pleiades/2023-12/eclipse/plugins/org.eclipse.m2e.model.edit_2.0.400.20231030-1438.jar!/xsd/archetype-catalog-1.0.0.xsd"/>
 <system systemId="http://maven.apache.org/xsd/archetype-descriptor-1.0.0.xsd" uri="jar:file:/C:/pleiades/2023-12/eclipse/plugins/org.eclipse.m2e.model.edit_2.0.400.20231030-1438.jar!/xsd/archetype-descriptor-1.0.0.xsd"/>
+<<<<<<< HEAD
 <public publicId="-//Sun Microsystems, Inc.//DTD Facelet Taglib 1.0//EN" uri="jar:file:/C:/pleiades/2023-12/eclipse/dropins/WTP/eclipse/plugins/org.eclipse.jst.jsf.facelet.core_1.5.0.v202308300413.jar!/dtd/facelet-taglib_1_0.dtd"/>
+=======
+>>>>>>> a5340638c0bf8f2407ce81ff741f3c6c9c854c0f
 <public publicId="-//WAPFORUM//DTD WML 1.1//EN" uri="jar:file:/C:/pleiades/2023-12/eclipse/dropins/WTP/eclipse/plugins/org.eclipse.wst.standard.schemas_1.0.800.v201901071922.jar!/dtds/wml11.dtd"/>
 <public publicId="-//W3C//DTD XHTML 1.0 Strict//EN" uri="jar:file:/C:/pleiades/2023-12/eclipse/dropins/WTP/eclipse/plugins/org.eclipse.wst.standard.schemas_1.0.800.v201901071922.jar!/dtds/xhtml1-strict.dtd"/>
 <public publicId="-//W3C//DTD XHTML 1.0 Transitional//EN" uri="jar:file:/C:/pleiades/2023-12/eclipse/dropins/WTP/eclipse/plugins/org.eclipse.wst.standard.schemas_1.0.800.v201901071922.jar!/dtds/xhtml1-transitional.dtd"/>

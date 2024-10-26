@@ -32,6 +32,7 @@
 	<section name="NewPackageWizardPage">
 		<item key="create_package_info_java" value="false"/>
 	</section>
+<<<<<<< HEAD
 	<section name="org.eclipse.jdt.internal.ui.text.QuickOutline">
 		<item key="GoIntoTopLevelTypeAction.isChecked" value="false"/>
 		<item key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_WIDTH" value="700"/>
@@ -52,4 +53,6 @@
 		<item key="expanded7" value="false"/>
 		<item key="expanded8" value="false"/>
 	</section>
+=======
+>>>>>>> a5340638c0bf8f2407ce81ff741f3c6c9c854c0f
 </section>

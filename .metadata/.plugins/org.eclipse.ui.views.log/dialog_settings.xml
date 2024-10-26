@@ -10,8 +10,13 @@
 		<item key="info" value="true"/>
 	</section>
 	<section name="org.eclipse.ui.internal.views.log.EventDetailsDialog">
+<<<<<<< HEAD
 		<item key="x" value="729"/>
 		<item key="y" value="647"/>
+=======
+		<item key="x" value="1019"/>
+		<item key="y" value="386"/>
+>>>>>>> a5340638c0bf8f2407ce81ff741f3c6c9c854c0f
 		<item key="width" value="1178"/>
 		<item key="height" value="1057"/>
 		<item key="sashWidth1" value="234"/>

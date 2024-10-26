@@ -12,8 +12,11 @@
 		<item key="org.eclipse.jdt.search.resultpage.limit" value="1000"/>
 		<item key="org.eclipse.jdt.search.resultpage.limit_enabled" value="TRUE"/>
 	</section>
+<<<<<<< HEAD
 	<section name="">
 		<item key="org.eclipse.jdt.search.resultpage.limit" value="1000"/>
 		<item key="org.eclipse.jdt.search.resultpage.limit_enabled" value="TRUE"/>
 	</section>
+=======
+>>>>>>> a5340638c0bf8f2407ce81ff741f3c6c9c854c0f
 </section>
